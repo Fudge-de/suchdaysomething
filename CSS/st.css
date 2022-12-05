@@ -112,15 +112,8 @@ h1 {
 
 
 @media screen and (max-width: 767px){
-    .nav-ul {
-        display: none;
-    }
-    .nav-ul.show {
-        display: flex;
-    }
-    .hamburger{
-        display: block;
-    }
+   
+ 
     .titletext{
         font-size: 3vw;
     }
